@@ -1,7 +1,7 @@
 # Text Mining in Social Media
 Trabajo del Máster Big Data Analytics (UPV) sobre Text Mining
 
-En este trabajo se ha creado un modelo de clasificación, predicción y evaluació del sexo y de la variedad del español de usuarios de twitter a partir de 100 de sus tuits. Se ha usado el DataSet PAN-AP’17, preparado y clasificado en dos particiones, train y test. 
+En este trabajo se ha creado un modelo de clasificación, predicción y evaluación del sexo y de la variedad del español de usuarios de twitter a partir de 100 de sus tuits. Se ha usado el DataSet PAN-AP’17, preparado y clasificado en dos particiones, train y test. 
 
 La aproximación principal al problema ha sido el uso de una bolsa de palabras ponderada basada en TF-IDF (term frequency - inverse document fre- quency) que da más importancia a las palabras que se usan solamente en un documento, frente a las demás.
 
