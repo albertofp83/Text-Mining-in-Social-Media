@@ -9,5 +9,5 @@ Se realizaron otras aproximaciones como la del cálculo de la longitud de los tu
 
 Por otra parte, se construyó una bolsa de palabras ponderada al modo TF-IDF por sexos, donde se pueden ver resultados interesantes: las palabras más usadas por los hombres que no usan las mujeres, y viceversa. En las siguientes imágenes correspondientes a los ficheros *BOW_1.png* y *BOW_2.png* se muestran dos gráficos de nubes de palabras. ¿Sabrías adivinar cuál corresponde a los hombres y cuál a las mujeres?
 
-![texto cualquiera por si no carga la imagen](https://github.com/albertofp83/Text-Mining-in-Social-Media/blob/master/BOW_1.png)
-![texto cualquiera por si no carga la imagen](https://github.com/albertofp83/Text-Mining-in-Social-Media/blob/master/BOW_2.png)
+![texto cualquiera por si no carga la imagen](https://github.com/albertofp83/Text-Mining-in-Social-Media/blob/master/images/BOW_1.png)
+![texto cualquiera por si no carga la imagen](https://github.com/albertofp83/Text-Mining-in-Social-Media/blob/master/images/BOW_2.png)
