@@ -7,7 +7,4 @@ La aproximación principal al problema ha sido el uso de una bolsa de palabras p
 
 Se realizaron otras aproximaciones como la del cálculo de la longitud de los tuits, basándonos en la hipótesis de que las mujeres escriben de media tuits más largos que los hombres. 
 
-Por otra parte, se construyó una bolsa de palabras ponderada al modo TF-IDF por sexos, donde se pueden ver resultados interesantes: las palabras más usadas por los hombres que usan las mujeres, y viceversa. En las siguientes imágenes se muestran dos gráficos de nubes de palabras. ¿Sabrías adivinar cuál corresponde a los hombres, y cuál a las mujeres?
-
-
-
+Por otra parte, se construyó una bolsa de palabras ponderada al modo TF-IDF por sexos, donde se pueden ver resultados interesantes: las palabras más usadas por los hombres que usan las mujeres, y viceversa. En las imágenes de los ficheros BOW_1.png y BOW_2.png se muestran dos gráficos de nubes de palabras. ¿Sabrías adivinar cuál corresponde a los hombres, y cuál a las mujeres?
